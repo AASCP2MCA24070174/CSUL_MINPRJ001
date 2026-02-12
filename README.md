@@ -310,12 +310,3 @@ This project is provided for educational and business intelligence purposes.
 
 ---
 
-## 📧 Support & Questions
-
-For questions or issues regarding this project, please review the detailed methodology in `METHODOLOGY.md` or consult the notebook's markdown sections for in-depth explanations.
-
----
-
-**Last Updated**: February 12, 2026
-**Python Version**: 3.8+
-**Status**: Active & Maintained
