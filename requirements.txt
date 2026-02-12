@@ -1,7 +1,22 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-openpyxl
-joblib
+# E-Commerce Customer Segmentation Project
+# Python 3.8+ Required
+
+# Core Data Processing
+pandas>=1.3.0
+numpy>=1.20.0
+openpyxl>=3.6.0  # For reading Excel files
+
+# Machine Learning & Clustering
+scikit-learn>=0.24.0
+
+# Visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Jupyter & Interactive Computing
+jupyter>=1.0.0
+ipython>=7.20.0
+
+# Optional but Recommended
+scipy>=1.5.0  # For advanced statistical methods
+plotly>=5.0.0  # For interactive visualizations
